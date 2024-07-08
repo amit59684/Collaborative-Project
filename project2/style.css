@@ -1,0 +1,27 @@
+body{
+    background-color: black;
+}
+.mainnav{
+    display: flex;
+    justify-content: space-between;
+    margin: 1rem 2rem 1rem 2rem;
+}
+.mainnav2{
+    display: flex;
+    gap: 25px;
+    margin-top:-18px;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+h3{
+    color: white;
+}
+.fstlogo{
+    height: 25px;
+    margin-top: 1.5rem;
+}
+.sndlogo{
+    height: 20px;
+}
